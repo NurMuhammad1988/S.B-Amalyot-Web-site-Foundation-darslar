@@ -125,6 +125,22 @@ header {
     margin-right: auto;
 }
 
+.banner .container a{
+    color:white;
+    font-size: 25px;
+}
+
+.banner .container b{
+    color:white;
+    font-size: 25px;
+}
+
+.banner .container b:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+
 .search-input {
     font-family: var(--Roboto);
     font-size: 1.2rem;
