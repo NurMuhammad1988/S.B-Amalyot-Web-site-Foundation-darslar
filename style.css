@@ -8,9 +8,7 @@
     --ExDark: #2b2b2b;
 }
 
-.banner b{
-    color:black;
-}
+
 
 * {
     padding: 0%;
@@ -580,6 +578,9 @@ footer span {
     }
 }
 
+.banner b{
+    color:black;
+}
 
 
 /* .navbar-nav i {
